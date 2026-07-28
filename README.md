@@ -1,6 +1,6 @@
 # Ops Troubleshooting Skill
 
-Linux 运维排障统一入口 skill，适用于 Hermes Agent。
+Linux 运维排障统一入口 skill，适用于 Hermes Agent/OpenClaw。
 
 ## 包含内容
 
